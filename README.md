@@ -1,3 +1,5 @@
+⚠️ This repository has moved to https://git.jeena.net/jeena/indie-reply-button
+
 Indie Reply Button
 ==================
 
